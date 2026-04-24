@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**oneloyalViper322/oneloyalViper322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **oneloyalViper322**, a embedded engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Goal: ship something useful every week
+- 🌱 Always learning new things
+- 💬 Ask me anything about code
+- 📚 Reading the source is the best documentation
+- ⚡ Fun fact: I write code while drinking coffee
+
+## Tech
+
+`PostgreSQL` `Actix` `Flask` `React`
+
+---
+
+_Music while coding._
